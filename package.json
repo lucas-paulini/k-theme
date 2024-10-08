@@ -1,0 +1,21 @@
+{
+  "name": "k-theme",
+  "displayName": "K-theme",
+  "description": "Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "K Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/K Theme-color-theme.json"
+      }
+    ]
+  }
+}
